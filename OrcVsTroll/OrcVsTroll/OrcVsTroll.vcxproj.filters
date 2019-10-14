@@ -27,6 +27,9 @@
     <ClCompile Include="..\..\..\..\er%3bhoj\OrcVsTroll\OrcVsTroll\OrcVsTroll\Troll.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\er%3bhoj\OrcVsTroll\OrcVsTroll\OrcVsTroll\Player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\er%3bhoj\OrcVsTroll\OrcVsTroll\OrcVsTroll\Character.h">
@@ -36,6 +39,9 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="..\..\..\..\er%3bhoj\OrcVsTroll\OrcVsTroll\OrcVsTroll\Troll.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\..\er%3bhoj\OrcVsTroll\OrcVsTroll\OrcVsTroll\Player.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

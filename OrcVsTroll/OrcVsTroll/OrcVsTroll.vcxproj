@@ -126,11 +126,13 @@
     <ClCompile Include="..\..\..\..\er%3bhoj\OrcVsTroll\OrcVsTroll\OrcVsTroll\Character.cpp" />
     <ClCompile Include="..\..\..\..\er%3bhoj\OrcVsTroll\OrcVsTroll\OrcVsTroll\Main.cpp" />
     <ClCompile Include="..\..\..\..\er%3bhoj\OrcVsTroll\OrcVsTroll\OrcVsTroll\Orc.cpp" />
+    <ClCompile Include="..\..\..\..\er%3bhoj\OrcVsTroll\OrcVsTroll\OrcVsTroll\Player.cpp" />
     <ClCompile Include="..\..\..\..\er%3bhoj\OrcVsTroll\OrcVsTroll\OrcVsTroll\Troll.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\er%3bhoj\OrcVsTroll\OrcVsTroll\OrcVsTroll\Character.h" />
     <ClInclude Include="..\..\..\..\er%3bhoj\OrcVsTroll\OrcVsTroll\OrcVsTroll\Orc.h" />
+    <ClInclude Include="..\..\..\..\er%3bhoj\OrcVsTroll\OrcVsTroll\OrcVsTroll\Player.h" />
     <ClInclude Include="..\..\..\..\er%3bhoj\OrcVsTroll\OrcVsTroll\OrcVsTroll\Troll.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
