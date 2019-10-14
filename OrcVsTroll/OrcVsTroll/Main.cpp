@@ -47,7 +47,7 @@ int main()
 		player.setupBaseStats(50, 50, 10, 2, "troll");
 	}
 
-	else if (raceChoice == Race::TROLL)
+	else
 	{
 		player.setupBaseStats(25, 25, 2, 15, "orc");
 	}
